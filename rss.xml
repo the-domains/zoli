@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[zoli]]></title>
         <description><![CDATA[zoli]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zoli/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 19:10:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 19:17:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zoli/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e7082bf-7044-4e1e-a468-92bfc556541d.jpg">]]></description>
-            <link>undefinedsziasztok-ez-az-elso-postom-itt-a-thegridio-weboldalon/index.html</link>
+            <link>https://thegrid.ai/zoli/sziasztok-ez-az-elso-postom-itt-a-thegridio-weboldalon/index.html</link>
             <guid isPermaLink="false">71da084e-fc32-410f-9629-6134c7b91386</guid>
-            <pubDate>Sun, 13 Mar 2016 19:10:08 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 19:17:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
