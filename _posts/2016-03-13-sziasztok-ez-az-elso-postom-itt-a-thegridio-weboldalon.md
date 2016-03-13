@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sziasztok! Ez az első postom itt a thegrid.io weboldalon.'
-datePublished: '2016-03-13T19:10:08.302Z'
-dateModified: '2016-03-13T19:09:20.022Z'
+datePublished: '2016-03-13T19:17:12.445Z'
+dateModified: '2016-03-13T19:10:14.843Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-sziasztok-ez-az-elso-postom-itt-a-thegridio-weboldalon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-sziasztok-ez-az-elso-postom-itt-a-thegridio-weboldalon.md
-published: true
 url: sziasztok-ez-az-elso-postom-itt-a-thegridio-weboldalon/index.html
 _type: Article
 
