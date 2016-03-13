@@ -2,6 +2,7 @@ name: zoli
 favicon: null
 layout_spectrum: 0.4507582827936858
 typography_spectrum: 0.10252148262225091
+title: Zoli
 cta:
   domain: null
   bucket: null
